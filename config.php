@@ -1,6 +1,5 @@
 <?php 
 
-/*
 // Override any of the default settings below:
 
 $config['site_title'] = 'learn to code';			// Site title
@@ -20,5 +19,3 @@ $config['excerpt_length'] = 50;			// The pages excerpt length (in words)
 // To add a custom config setting:
 
 $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_setting }} in a theme
-
-*/
